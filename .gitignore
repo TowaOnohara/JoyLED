@@ -34,3 +34,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# bin,objディレクトリ以下は無視
+bin/
+obj/
